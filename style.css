@@ -1,0 +1,16 @@
+body{
+    background: url(https://wallpaperaccess.com/full/1528093.jpg);
+    background-size: 100%;
+    /* background-position: center; */
+}
+/* Glass Effect */
+.container .glass{
+   top: 20PX;
+    height: 30vh;
+    width: 75%;
+    background-image: linear-gradient(135deg, rgba(225,225,225,0.1) rgba(225,225,225,0));
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 1px solid  rgba(225,225,225,0.18);
+    box-shadow: 0 8px 32px 0 rgba(0 0 0 0.37);
+}
